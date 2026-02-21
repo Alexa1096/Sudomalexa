@@ -6,9 +6,9 @@
 
 ## Instalación
 
-```bash $ git clone https://github.com/SamaelAS/Sdominio```
+```bash $ git clone https://github.com/Alexa1096/Sudomalexa```
 
-```bash $ cd Sdomin```
+```bash $ cd Alexa```
 
 ```bash $ pip3 install -r requirements.txt```
 
