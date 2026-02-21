@@ -1,0 +1,2 @@
+# Sudomalexa
+Scrip termux
